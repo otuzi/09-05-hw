@@ -21,29 +21,35 @@
 
 ### Задание 2.
 
-Установите Node Exporter.
+Установите Alertmanager и интегрируйте его с Prometheus.
 
-Приведите скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО].
+Прикрепите скриншот Alerts из Prometheus, где правило оповещения будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.
 
-`Скриншот systemctl status node-exporter:`
 
-![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image2.png)
+`Скриншот Alerts из Prometheus:`
+
+![alt text](https://github.com/otuzi/09-05-hw/blob/main/img/image3.png)
+
+
+`Скриншот из Alertmanager:`
+
+![alt text](https://github.com/otuzi/09-05-hw/blob/main/img/image4.png)
 
 ---
 
 ### Задание 3.
 
-Подключите Node Exporter к серверу Prometheus.
+Активируйте экспортёр метрик в Docker и подключите его к Prometheus.
 
-Приложите скриншот конфига из интерфейса Prometheus вкладки Status > Configuration. Приложите скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта.
+Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.
 
 
-`Скриншот Status > Configuration:`
+`Скриншот браузера с открытым эндпоинтом:`
 
-![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image3.png)
+![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image5.png)
 
-`Скриншот Status > Targets:`
+`Скриншот списка таргетов из Prometheus:`
 
-![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image4.png)
+![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image6.png)
 
 ---
