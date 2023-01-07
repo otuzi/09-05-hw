@@ -46,10 +46,10 @@
 
 `Скриншот браузера с открытым эндпоинтом:`
 
-![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image5.png)
+![alt text](https://github.com/otuzi/09-05-hw/blob/main/img/image5.png)
 
 `Скриншот списка таргетов из Prometheus:`
 
-![alt text](https://github.com/otuzi/09-04-hw/blob/main/img/image6.png)
+![alt text](https://github.com/otuzi/09-05-hw/blob/main/img/image6.png)
 
 ---
